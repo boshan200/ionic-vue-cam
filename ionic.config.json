@@ -1,0 +1,7 @@
+{
+  "name": "ilsTestCam",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
